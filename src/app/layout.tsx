@@ -8,8 +8,8 @@ import { ThemeProvider } from '@/providers/theme-provider'
 const font = DM_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Fuzzie.',
-  description: 'Automate Your Work With Fuzzie.',
+  title: 'CPL 2.0',
+  description: 'CodeChef Premier League 2.0',
 }
 
 export default function RootLayout({
