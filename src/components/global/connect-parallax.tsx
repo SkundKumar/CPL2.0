@@ -32,11 +32,11 @@ export const HeroParallax = ({
 
   const translateX = useSpring(
     useTransform(scrollYProgress, [0, 1], [0, 800]),
-    { ...springConfig, ease: "easeOut" }
+    { ...springConfig,  }
   )
   const translateXReverse = useSpring(
     useTransform(scrollYProgress, [0, 1], [0, -800]),
-    { ...springConfig, ease: "easeOut" }
+    { ...springConfig,  }
   )
   const rotateX = useSpring(
     useTransform(scrollYProgress, [0, 0.2], [10, 0]),
@@ -44,7 +44,7 @@ export const HeroParallax = ({
   )
   const opacity = useSpring(
     useTransform(scrollYProgress, [0, 0.3], [0.1, 1]),
-    { ...springConfig, ease: "easeOut" }
+    { ...springConfig,  }
   )
   const rotateZ = useSpring(
     useTransform(scrollYProgress, [0, 0.3], [10, 0]),
@@ -52,7 +52,7 @@ export const HeroParallax = ({
   )
   const translateY = useSpring(
     useTransform(scrollYProgress, [0, 0.3], [-500, 300]),
-    { ...springConfig, ease: "easeOut" }
+    { ...springConfig,  }
   )
 
   return (
