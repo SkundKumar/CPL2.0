@@ -171,7 +171,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                   
                   <li className="flex items-center gap-2">
                     
-                    <p className="font-bold">But ofc you will be given a fair chance to convice the auctioneer that you are worth more that the quiz score.</p>
+                    <p className="font-bold">But ofc you will be given a fair chance to convice the Bidder that you are worth more that the quiz score.</p>
                   </li>
                 </ul>
               </CardItem>
