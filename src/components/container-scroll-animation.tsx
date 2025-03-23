@@ -26,16 +26,16 @@ export const ContainerScroll = ({
   }, [])
 
   const scaleDimensions = () => {
-    return isMobile ? [0.7, 0.9] : [1.05, 1]
+    return isMobile ? [1.0, 0.9] : [1.0, 1.05]
   }
 
   const rotate = useTransform(scrollYProgress, [0, 1], [20, 0])
   const scale = useTransform(scrollYProgress, [0, 1], scaleDimensions())
-  const translate = useTransform(scrollYProgress, [0, 1], [0, -100])
+  const translate = useTransform(scrollYProgress, [0, 1], [0, -500])
 
   return (
     <div
-      className="h-[80rem] flex items-center justify-center relative p-20"
+      className="h-[80rem] flex items-center justify-center relative p-0"
       ref={containerRef}
     >
       <div
@@ -92,10 +92,10 @@ export const Card = ({
     >
       <div className="bg-gray-100 h-full w-full rounded-2xl  gap-4 overflow-hidden p-4 transition-all ">
         <Image
-          src="/ashenOne.png"
+          src="/ashenOne-mob.png"
           fill
           alt="bannerImage"
-          className="object-cover border-8 rounded-2xl"
+          className="object-cover border-4 rounded-xl"
         />
       </div>
     </motion.div>
