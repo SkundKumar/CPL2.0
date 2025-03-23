@@ -46,12 +46,16 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
         speed="slow"
       />
 
-      <section>
-        <HeroParallax products={products} >
+      <section >
+      
+        <HeroParallax products={products}
+        
+        >
 
         </HeroParallax>
+        
       </section>
-
+     
       <section className="mt-[-500px]">
         <LampComponent/>
             <div className="flex flex-wrap items-center justify-center justify center flex-col md:flex-row gap-8 -mt-72 mb-32">
