@@ -68,8 +68,8 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                 translateZ="60"
                 className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
               >
-                Get a glimpse of what we are is capable of. Just a heads
-                up you'll never leave us after this!
+                <p>Get a glimpse of what we are is capable of. Just a heads
+                up you'll never leave us after this! </p>
                 <ul className="my-4 flex flex-col gap-2">
                   <li className="flex items-center gap-2">
                     <CheckIcon />some crazy shit
@@ -116,9 +116,9 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                 className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
                 >
                 
-                <ul className="my-4 flex flex-col gap-2">If that's how you think, you'll never be ready for anything. <p className="font-semibold text-base">Take the leap of faith—just like the Chefs before you, trust in the Creed, and the world will reveal itself in time.</p> 
+                <ul className="my-4 flex flex-col gap-2"><p>If that's how you think, you'll never be ready for anything. </p><p className="font-semibold text-base">Take the leap of faith—just like the Chefs before you, trust in the Creed, and the world will reveal itself in time.</p> 
                   <li className="flex items-center gap-2">
-                  <CheckIcon /> Shh...a lil secrete "even if ou dont win you can learn about the CP experience"
+                  <CheckIcon /><p> Shh...a lil secrete "even if ou dont win you can learn about the CP experience"</p>
                   </li>
                   <li className="flex items-center gap-2">
                   <CheckIcon /> Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.
@@ -159,7 +159,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                 translateZ="60"
                 className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
               >
-                well yes but you'll be the one auctioned this time
+               <p> well yes but you'll be the one auctioned this time</p>
                 <ul className="my-4 flex flex-col gap-2">
                   <li className="flex items-center gap-2">
                     <CheckIcon />A simple Coding MENTI quiz
@@ -209,7 +209,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                 
             </div>
             <div className="flex items-center justify-center flex-col mb-10">
-              <p> or Else <span className="ml-2">(ง'̀-'́)ง</span> </p>
+              <p> or Else <span className="ml-2"><p>(ง&apos;̀-&apos;́)ง</p></span> </p>
             </div>
             
       </section>
