@@ -103,9 +103,9 @@ export const HeroParallax = ({
 
 export const Header = () => {
   return (
-    <div className="max-w-7xl relative mx-auto py-20 md:py-40 px-4 w-full left-0 top-0">
+    <div className="max-w-7xl relative mx-auto py-20 md:py-30 px-4 w-full left-0 top-0">
       <h1 className="text-5xl md:text-7xl font-bold dark:text-white">
-        sdfsd <br /> sdfsdf
+        CodeChef <br />Premier League
       </h1>
       <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, sed! Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, dolorum! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere distinctio labore quas nihil! Molestiae beatae, officia nemo inventore cum obcaecati?
@@ -120,7 +120,7 @@ export const ProductCard = ({
 }: {
   product: {
     title: string
-    link: string
+    
     thumbnail: string
   }
   translate: MotionValue<number>
@@ -135,7 +135,7 @@ export const ProductCard = ({
         scale: 1.02, // Slight scale-up for smooth effect
       }}
       transition={{ type: "spring", stiffness: 150, damping: 15 }}
-      className="group/product h-96 w-[30rem] relative flex-shrink-0"
+      className="group/product h-96 w-[35rem] relative flex-shrink-0 "
     >
       <div className="block group-hover/product:shadow-2xl">
         <Image
