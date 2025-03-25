@@ -6,7 +6,7 @@ export const clients = [...new Array(10)].map((client, index) => ({
 
 export const products = [
   {
-    title: 'Moonbeam',
+    title: 'bruh',
     
     thumbnail: '/p1.jpg',
   },
