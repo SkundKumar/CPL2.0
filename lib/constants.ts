@@ -1,24 +1,24 @@
 
 
 export const clients = [...new Array(10)].map((client, index) => ({
-  href: `/${index + 1}.jpg`,
+  href: `/${index + 1}.png`,
 }))
 
 export const products = [
   {
-    title: 'bruh',
+    title: 'Moonbeam',
     
-    thumbnail: '/p1.jpg',
+    thumbnail: '/p1.JPG',
   },
   {
     title: 'Cursor',
     
-    thumbnail: '/p2.jpg',
+    thumbnail: '/p2.JPG',
   },
   {
     title: 'Rogue',
     
-    thumbnail: '/p6.jpg',
+    thumbnail: '/p6.JPG',
   },
 
   {
