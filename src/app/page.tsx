@@ -8,6 +8,8 @@ import { HeroParallax } from "@/components/global/connect-parallax";
 import { LampComponent } from "@/components/global/lamp";
 import { CardBody, CardContainer, CardItem } from "@/components/global/3d-card";
 import {CheckIcon} from "lucide-react"
+import { Timeline } from "@/components/ui/timeline";
+import { TimelineDemo } from "@/components/global/TimelineDemo";
 export default function Home() {
   return (
     <main>
@@ -217,6 +219,14 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
             </div>
             
       </section>
+      
+      <TimelineDemo/>
+      
+     
+      
+      
+      
+      
    </main>
   );
 }

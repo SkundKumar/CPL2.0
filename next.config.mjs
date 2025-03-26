@@ -10,8 +10,12 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'ucarecdn.com',
       },
+      {
+        protocol: 'https',
+        hostname: 'assets.aceternity.com', 
+      },
     ],
   },
 }
 
-export default nextConfig
+export default nextConfig;
