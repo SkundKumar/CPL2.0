@@ -6,80 +6,80 @@ export const clients = [...new Array(10)].map((client, index) => ({
 
 export const products = [
   {
-    title: 'Moonbeam',
+    title: '',
     
     thumbnail: '/p1.JPG',
   },
   {
-    title: 'Cursor',
+    title: '',
     
     thumbnail: '/p2.JPG',
   },
   {
-    title: 'Rogue',
+    title: '',
     
     thumbnail: '/p6.JPG',
   },
 
   {
-    title: 'Editorially',
+    title: '',
     
     thumbnail: '/p1.JPG',
   },
   {
-    title: 'Editrix AI',
+    title: '',
     
     thumbnail: '/p5.JPG',
   },
   {
-    title: 'Pixel Perfect',
+    title: '',
     
     thumbnail: '/p3.JPG',
   },
 
   {
-    title: 'Algochurn',
+    title: '',
     
     thumbnail: '/p1.JPG',
   },
   {
-    title: 'Aceternity UI',
+    title: '',
     
     thumbnail: '/p8.JPG',
   },
   {
-    title: 'Tailwind Master Kit',
+    title: '',
     
     thumbnail: '/p7.JPG',
   },
   {
-    title: 'SmartBridge',
+    title: '',
     
     thumbnail: '/p1.JPG',
   },
   {
-    title: 'Renderwork Studio',
+    title: '',
    
     thumbnail: '/p2.JPG',
   },
 
   {
-    title: 'Creme Digital',
+    title: '',
    
     thumbnail: '/p7.JPG',
   },
   {
-    title: 'Golden Bells Academy',
+    title: '',
   
     thumbnail: '/p4.JPG',
   },
   {
-    title: 'Invoker Labs',
+    title: '',
    
     thumbnail: '/p5.JPG',
   },
   {
-    title: 'E Free Invoice',
+    title: '',
    
     thumbnail: '/p6.JPG',
   },

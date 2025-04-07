@@ -88,8 +88,8 @@ export const InfiniteMovingCards = ({
       >
         {items.map((item, idx) => (
           <Image
-            width={170}
-            height={1}
+            width={270}
+            height={2}
             src={item.href}
             alt={item.href}
             className=" relative   rounded-2xl  object-contain opacity-50"
