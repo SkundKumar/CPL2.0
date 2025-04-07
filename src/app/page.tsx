@@ -68,25 +68,25 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                 className="text-xl font-bold text-neutral-600 dark:text-white "
               >
                 Prizes
-                <h2 className="text-6xl mb-5">10,000+ prize pool</h2>
+                <h2 className="text-6xl mb-5">Info about Event/Sponser</h2>
               </CardItem>
+              {/*card content first*/}
               <CardItem
                 translateZ="60"
                 className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
               >
-                <p>Get a glimpse of what we are is capable of. Just a heads
-                up you'll never leave us after this! </p>
+                <p></p>
                 <ul className="my-4 flex flex-col gap-2">
                   <li className="flex items-center gap-2">
-                    <CheckIcon />some crazy shit
+                    <CheckIcon />
                   </li>
                   <li className="flex items-center gap-2">
                     <CheckIcon />
-                    COUPON FOR COFFEE OR SOME SHIT
+                    
                   </li>
                   <li className="flex items-center gap-2">
                     <CheckIcon />
-                    SOME RANDO SHIT
+                    
                   </li>
                 </ul>
               </CardItem>
@@ -96,7 +96,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                   as="button"
                   className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white"
                 >
-                  INTERESTED YET ?
+                 .
                 </CardItem>
                 <CardItem
                   translateZ={20}
