@@ -108,7 +108,7 @@ export const Header = () => {
         CodeChef <br />Premier League
       </h1>
       <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, sed! Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, dolorum! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere distinctio labore quas nihil! Molestiae beatae, officia nemo inventore cum obcaecati?
+      CodeChef Premier League isn’t just about cricket or code — it’s about stepping out of your comfort zone. It’s for the ones who've been afraid of competitive programming but choose to try anyway, even if just once. Bring yourself, bring your spirit, and take your shot, you might be selected by some head in a strong team. You might just surprise yourself.
       </p>
     </div>
   )
