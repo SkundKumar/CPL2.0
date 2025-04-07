@@ -68,7 +68,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                 className="text-xl font-bold text-neutral-600 dark:text-white "
               >
                 Prizes
-                <h2 className="text-6xl mb-5">Info about Event/Sponser</h2>
+                <h2 className="text-6xl mb-5">more info</h2>
               </CardItem>
               {/*card content first*/}
               <CardItem
