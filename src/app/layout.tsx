@@ -10,6 +10,9 @@ const font = DM_Sans({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'CPL 2.0',
   description: 'CodeChef Premier League 2.0',
+  icons: {
+    icon: "/ashenOne-mob.png", // path to your favicon file
+  },
 }
 
 export default function RootLayout({
