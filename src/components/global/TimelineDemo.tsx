@@ -14,7 +14,7 @@ export function TimelineDemo() {
               <div className="font-medium min-w-[120px]">6:00 pm – 6:30 pm:</div>
               <div>
                 <div className="font-medium">Quiz Round</div>
-                <div>• 15 MCQs to test coding knowledge.</div>
+                <div>• 15 MCQs to test coding knowledge. <span className="font-mono text-bold">( its super basic stuff )</span></div>
               </div>
             </div>
             <div className="flex gap-2 items-start text-neutral-700 dark:text-neutral-300 text-xs md:text-sm mb-3">

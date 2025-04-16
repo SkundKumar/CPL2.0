@@ -67,10 +67,11 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                 translateZ="50"
                 className="text-xl font-bold text-neutral-600 dark:text-white "
               >
-                Prizes
-                <h2 className="text-6xl mb-5">more info</h2>
+                Kya matlab iss baar its
+                <h2 className="text-6xl mb-5">FREE</h2>
               </CardItem>
               {/*card content first*/}
+            
               <CardItem
                 translateZ="60"
                 className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
@@ -79,14 +80,19 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                 <ul className="my-4 flex flex-col gap-2">
                   <li className="flex items-center gap-2">
                     <CheckIcon />
+                    Yes this time its free for everyone
                   </li>
                   <li className="flex items-center gap-2">
                     <CheckIcon />
-                    
+                    And you will get a little something just for participating 
                   </li>
                   <li className="flex items-center gap-2">
                     <CheckIcon />
-                    
+                    And if you go th the next round it increases
+                  </li>
+                  <li className="flex items-center gap-2">
+                    <CheckIcon />
+                    This time everyone wins something
                   </li>
                 </ul>
               </CardItem>
@@ -96,7 +102,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                   as="button"
                   className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white"
                 >
-                 .
+                 INTERESTED YET?
                 </CardItem>
                 <CardItem
                   translateZ={20}
@@ -124,7 +130,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                 
                 <ul className="my-4 flex flex-col gap-2"><p>If that's how you think, you'll never be ready for anything. </p><p className="font-semibold text-base">Take the leap of faith—just like the Chefs before you, trust in the Creed, and the world will reveal itself in time.</p> 
                   <li className="flex items-center gap-2">
-                  <CheckIcon /><p> Shh...a lil secrete "even if ou dont win you can learn about the CP experience"</p>
+                  <CheckIcon /><p> Shh...a lil secret "even if you dont win you can learn about the CP experience"</p>
                   </li>
                   <li className="flex items-center gap-2">
                   <CheckIcon /> Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.
