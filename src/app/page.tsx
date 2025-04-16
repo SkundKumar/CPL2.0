@@ -136,7 +136,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                   <CheckIcon /> Come for the code, stay for the connections.
                   </li>
                   <li className="flex items-center gap-2">
-                  <CheckIcon /> Lorem ipsum dolor sit amet consectetur adipisicing elit. In, excepturi.
+                  <CheckIcon /> Your future self will thank you. Or at least stop judging you.
                   </li>
                 </ul>
                 </CardItem>
