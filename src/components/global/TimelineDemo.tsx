@@ -29,7 +29,7 @@ export function TimelineDemo() {
               <div>
                 <div className="font-medium">Player Auction</div>
                 <div>• Each participant gets 2 minutes to present their coding background.</div>
-                <div>• Based on this, seniors bid to form teams.</div>
+                <div>• Based on this and the MCQ score, seniors bid to form teams.</div>
               </div>
             </div>
             <div className="flex gap-2 items-start text-neutral-700 dark:text-neutral-300 text-xs md:text-sm">
