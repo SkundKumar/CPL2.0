@@ -133,7 +133,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                   <CheckIcon /><p> Shh...a lil secret "even if you dont win you can learn about the CP experience"</p>
                   </li>
                   <li className="flex items-center gap-2">
-                  <CheckIcon /> Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.
+                  <CheckIcon /> Come for the code, stay for the connections.
                   </li>
                   <li className="flex items-center gap-2">
                   <CheckIcon /> Lorem ipsum dolor sit amet consectetur adipisicing elit. In, excepturi.
@@ -178,7 +178,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                   </li>
                   <li className="flex items-center gap-2">
                     <CheckIcon />
-                    Based on that you'll be auctioned
+                    Based on that, you’ll be “auctioned” (we know, scary word)
                   </li>
                   
                   <li className="flex items-center gap-2">
