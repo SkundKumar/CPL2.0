@@ -103,7 +103,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                   as="button"
                   className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold"
                 >
-                  Click For Queries
+                  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=9NpbLPKP2Uu9VHxQqyGVkKMzhEmObmBIrP8JW3Y08npUQUhRV1FQUVlJTUUyQlpSSEVTSThJQjkyMS4u">Click For Queries</a>
                 </CardItem>
               </div>
             </CardBody>
@@ -147,7 +147,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                   as="button"
                   className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold"
                 >
-                  Click For Queries
+                 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=9NpbLPKP2Uu9VHxQqyGVkKMzhEmObmBIrP8JW3Y08npUQUhRV1FQUVlJTUUyQlpSSEVTSThJQjkyMS4u">Click For Queries</a>
                 </CardItem>
               </div>
             </CardBody>
@@ -194,7 +194,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                   as="button"
                   className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold"
                 >
-                  Click For Queries
+                  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=9NpbLPKP2Uu9VHxQqyGVkKMzhEmObmBIrP8JW3Y08npUQUhRV1FQUVlJTUUyQlpSSEVTSThJQjkyMS4u">Click For Queries</a>
                 </CardItem>
               </div>
             </CardBody>
