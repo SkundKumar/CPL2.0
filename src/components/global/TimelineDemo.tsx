@@ -54,8 +54,8 @@ export function TimelineDemo() {
               <div className="font-medium min-w-[120px]">6:00 pm – 6:05 pm:</div>
               <div>
                 <div className="font-medium">Team Pairing</div>
-                <div>• One player from each of the 8 teams picks a chit.</div>
-                <div>• Forms 4 match pairs.</div>
+                <div>• One player from each of the 6 teams picks a chit.</div>
+                <div>• Forms 3 match pairs.</div>
               </div>
             </div>
             <div className="flex gap-2 items-start text-neutral-700 dark:text-neutral-300 text-xs md:text-sm mb-3">
@@ -82,7 +82,7 @@ export function TimelineDemo() {
                 <div>• Second team bowls; first team bats.</div>
                 <div>• Team with higher score wins the match.</div>
                 <div className="italic mt-1">
-                  {"{"} 4 teams are eliminated at this stage. {"}"}
+                  {"{"} 3 teams are eliminated at this stage. {"}"}
                 </div>
               </div>
             </div>
@@ -93,7 +93,7 @@ export function TimelineDemo() {
                 <div>• Eliminated teams face off.</div>
                 <div>• Each gets 15 same questions.</div>
                 <div>• Time: 20 minutes.</div>
-                <div>• Top 2 teams with most correct answers advance.</div>
+                <div>• Top team with most correct answers advance.</div>
               </div>
             </div>
           </div>
@@ -113,7 +113,7 @@ export function TimelineDemo() {
               <div>
                 <div className="font-medium">Team Pairing</div>
                 <div>• One player from each of the 6 remaining teams picks a chit.</div>
-                <div>• Forms 3 match pairs.</div>
+                <div>• Forms 2 match pairs.</div>
               </div>
             </div>
             <div className="flex gap-2 items-start text-neutral-700 dark:text-neutral-300 text-xs md:text-sm mb-3">
@@ -145,7 +145,7 @@ export function TimelineDemo() {
               <div className="font-medium min-w-[120px]">7:15 pm – 7:25 pm:</div>
               <div>
                 <div className="font-medium">Results</div>
-                <div>• 3 Winning teams are announced!</div>
+                <div>• 2 Winning teams are announced!</div>
               </div>
             </div>
           </div>

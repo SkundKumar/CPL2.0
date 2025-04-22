@@ -31,7 +31,7 @@ px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,
                   </span>
                 </Button>
                 <h1 className="text-5xl md:text-8xl bg-clip-text text-transparent bg-gradient-to-b from-white to-neutral-600 font-sans font-bold ">
-                  Join Us At 301 ALH
+                  Join Us At 103 BLA
                  
                 </h1>
                 <h1 className="text-5xl md:text-8xl bg-clip-text text-transparent bg-gradient-to-b from-white to-neutral-600 font-sans font-bold ">
