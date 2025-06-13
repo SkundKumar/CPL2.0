@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { DM_Sans } from 'next/font/google'
 import './globals.css'
 import { ThemeProvider } from '@/providers/theme-provider'
+import PWAInstallPrompt from '@/components/global/pwa-install-prompt'
 
 
 
@@ -54,6 +55,8 @@ export default function RootLayout({
         >
           
             {children}
+            
+            <PWAInstallPrompt />
             
         </ThemeProvider>
       </body>

@@ -34,6 +34,7 @@
     "cmdk": "0.2.0",
     "framer-motion": "^11.18.2",
     "googleapis": "^134.0.0",
+    "gsap": "^3.13.0",
     "install": "^0.13.0",
     "lucide-react": "^0.358.0",
     "motion": "^12.6.0",
